@@ -1,58 +1,103 @@
 # Hi, I'm Muhammad Faizan 👋
 
-### MERN Stack Developer | Full-Stack Web Developer
+### MERN Stack Developer 🚀
 
-I build responsive, user-friendly web applications using modern JavaScript technologies. I enjoy turning ideas into practical web solutions and continuously improving my development skills.
+I'm a passionate **MERN Stack Developer** focused on building responsive, user-friendly and full-stack web applications.
 
-- 🌱 Currently learning and building projects with the MERN stack
-- 💻 Interested in full-stack development and REST API integration
-- 🔐 Working with authentication and secure web applications
-- 🚀 Focused on writing clean, maintainable code
-- 🤝 Open to collaboration and interesting projects
+I work with **React.js, JavaScript, Node.js, Express.js and MongoDB** and enjoy turning ideas into real-world web applications.
+
+---
+
+## 🚀 About Me
+
+* 💻 MERN Stack Developer
+* ⚛️ Building applications with React.js
+* 🟢 Developing backend APIs with Node.js & Express.js
+* 🍃 Working with MongoDB
+* 🎨 Creating responsive and modern user interfaces
+* 🌐 Deploying projects and building live web experiences
+* 📚 Continuously learning and improving my full-stack development skills
+
+---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Cloudinary
-- Bootstrap
-- Tailwind css
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
 
-### Database & Tools
-- MongoDB
-- Git & GitHub
-- Postman
+* Node.js
+* Express.js
+* REST APIs
 
-## 🚀 Featured Projects
+### Database
 
-### MERN Todo App
-A full-stack task management application with user authentication and CRUD functionality.
+* MongoDB
+* Mongoose
 
-**Tech:** React.js, Node.js, Express.js, MongoDB
+### Tools & Platforms
 
-### More Projects
-Explore my repositories for more web development projects and experiments.
-
-## 🎯 What I'm Working On
-
-- Building full-stack applications
-- Improving React and Node.js skills
-- Learning better API design and deployment practices
-
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/Muhammad-Faizan79
-- LinkedIn: www.linkedin.com/in/muhammad-faizan-b974643b1
-- Portfolio:https://muhammadfaizan-portfolio.netlify.app/
+* Git
+* GitHub
+* VS Code
+* Vercel
+* Netlify
 
 ---
 
-⭐ Thanks for visiting my profile!
+## ⭐ Featured Projects
+
+### 🤖 HelpHub AI
+
+A web-based help and support platform interface with multiple pages including AI center, requests, messages, notifications and user profiles.
+
+### 💼 HiringMine Clone
+
+A responsive job-platform website clone built to practice modern frontend development, layouts and interactive web interfaces.
+
+### 🎓 University Website
+
+A responsive university website project demonstrating frontend layout, styling and deployment.
+
+### 🧮 Calculator App
+
+A JavaScript-based calculator application with a clean and interactive user interface.
+
+### 🎮 Tic Tac Toe Game
+
+A browser-based Tic Tac Toe game built with JavaScript.
+
+### 🍔 Fast Food Website
+
+A responsive restaurant website featuring multiple pages such as menu, booking and about sections.
+
+---
+
+## 📌 Currently Learning
+
+* Advanced React.js
+* Node.js & Express.js
+* MongoDB & Mongoose
+* REST API Development
+* Authentication & Authorization
+* Full-Stack Application Development
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 Portfolio: https://muhammadfaizan-portfolio.netlify.app/
+* 🐙 GitHub: https://github.com/Muhammad-Faizan79
+
+---
+
+## 💡 My Goal
+
+> To become a professional full-stack developer by building scalable, responsive and real-world web applications.
+
+⭐ Feel free to explore my repositories and follow my development journey!
